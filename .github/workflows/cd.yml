@@ -22,5 +22,4 @@ jobs:
           echo "Vérification des artéfacts et des dépendances..."
           echo "Déploiement simulé avec succès sur l'environnement de production !"
 
-      # Note : La section de déploiement réel sur un serveur distant (SSH / AWS / GCP) 
-      # est volontairement omise/commentée dans le cadre pédagogique de ce laboratoire.
+  
